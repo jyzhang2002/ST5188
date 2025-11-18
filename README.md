@@ -94,6 +94,10 @@ The file **`202507-citibike-tft-features-cleaned-500000-isnight.csv`** correspon
 
 The file **`202507-citibike-tft-features-cleaned-500000-isnight-aggre3hours.csv`** is the **3-hour aggregated** version of the dataset.
 
+The processed Citi Bike dataset can be downloaded via Google Drive:
+
+👉 [Download ST5188 Dataset (Google Drive)] (https://drive.google.com/drive/folders/1w7gSu6ahdKWVBb2MWvDSpAm39R5SHU1q?usp=sharing)
+
 
 ---
 
